@@ -1,11 +1,11 @@
 # Site settings
-author: decisive-chain-1656
-title: 
+author: Selamawit Lemma
+title: Abey-C-Niya Blog
 header-img: img/home-bg.png
 email: oneiconforlife26@gmail.com
-copyright_name: decisive-chain-1656
+copyright_name: Selamawit Lemma
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Website Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Mimi-12
